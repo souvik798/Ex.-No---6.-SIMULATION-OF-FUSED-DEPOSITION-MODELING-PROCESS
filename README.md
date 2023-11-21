@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SOUVIK KUNDU
+### Register Number: 212221230105
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
